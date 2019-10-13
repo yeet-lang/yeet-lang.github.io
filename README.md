@@ -1,2 +1,2 @@
-# yeet-lang.github.io
-Website for Yeet.
+# Aratar
+Website for Aratar.
